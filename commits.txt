@@ -1,0 +1,11 @@
+commit c89e29741443a373fa6738964e5d01986c9cf9a5
+Author: yosimar valega <keyjo45@yahoo.es>
+Date:   Wed Jun 1 09:24:10 2016 -0500
+
+    cambio en html se quito informacion de codepen
+
+commit e1e754d0b69972138ba22ca322d83512124e6622
+Author: yosimar valega <keyjo45@yahoo.es>
+Date:   Wed Jun 1 09:17:57 2016 -0500
+
+    Inicio del proyecto
